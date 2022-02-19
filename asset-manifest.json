@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Pizza-Website/static/css/main.b31a831a.css",
+    "main.js": "/React-Pizza-Website/static/js/main.620465ab.js",
+    "static/media/aboutPizza.jpg": "/React-Pizza-Website/static/media/aboutPizza.92f50fb84035557326ac.jpg",
+    "static/media/expensive.jpg": "/React-Pizza-Website/static/media/expensive.92f50fb84035557326ac.jpg",
+    "static/media/pizzaLeft.jpg": "/React-Pizza-Website/static/media/pizzaLeft.00b6114c8f33252cc757.jpg",
+    "static/media/vegan.jpg": "/React-Pizza-Website/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/React-Pizza-Website/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/pizzaLogo1.png": "/React-Pizza-Website/static/media/pizzaLogo1.fcdc67e6b331cba63735.png",
+    "static/media/pineapple.jpg": "/React-Pizza-Website/static/media/pineapple.0bcb53a9763b705ed4b4.jpg",
+    "static/media/pepperoni.jpg": "/React-Pizza-Website/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/margherita.jpg": "/React-Pizza-Website/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/React-Pizza-Website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/React-Pizza-Website/index.html",
+    "main.b31a831a.css.map": "/React-Pizza-Website/static/css/main.b31a831a.css.map",
+    "main.620465ab.js.map": "/React-Pizza-Website/static/js/main.620465ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31a831a.css",
+    "static/js/main.620465ab.js"
+  ]
+}
