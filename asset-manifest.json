@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Pizza-Website/static/css/main.b31a831a.css",
-    "main.js": "/React-Pizza-Website/static/js/main.620465ab.js",
+    "main.js": "/React-Pizza-Website/static/js/main.b326a256.js",
     "static/media/aboutPizza.jpg": "/React-Pizza-Website/static/media/aboutPizza.92f50fb84035557326ac.jpg",
     "static/media/expensive.jpg": "/React-Pizza-Website/static/media/expensive.92f50fb84035557326ac.jpg",
     "static/media/pizzaLeft.jpg": "/React-Pizza-Website/static/media/pizzaLeft.00b6114c8f33252cc757.jpg",
@@ -14,10 +14,10 @@
     "static/media/pedrotechspecial.jpg": "/React-Pizza-Website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/React-Pizza-Website/index.html",
     "main.b31a831a.css.map": "/React-Pizza-Website/static/css/main.b31a831a.css.map",
-    "main.620465ab.js.map": "/React-Pizza-Website/static/js/main.620465ab.js.map"
+    "main.b326a256.js.map": "/React-Pizza-Website/static/js/main.b326a256.js.map"
   },
   "entrypoints": [
     "static/css/main.b31a831a.css",
-    "static/js/main.620465ab.js"
+    "static/js/main.b326a256.js"
   ]
 }
